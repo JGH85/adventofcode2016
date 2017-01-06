@@ -1,0 +1,5 @@
+
+
+f = open('inputday6.txt')
+
+print(f)
